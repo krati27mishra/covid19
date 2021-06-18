@@ -1,10 +1,3 @@
-PROJECT NAME:-  PANDEMIC:COVID-19                           |
-NAME OF PARTICIPANTS: KRATI MISHRA AND HARSHIT BISEN        | 
-INSTITUTE NAME:   M.J.P. ROHILKHAND UNIVERSITY              |
- COURSE: B.TECH                                             |
-YEAR :SECOND YEAR                                           |
-------------------------------------------------------------
-
 Pre-requisite:-
 --------------
 1-Must have Atom text editor install in the system.
